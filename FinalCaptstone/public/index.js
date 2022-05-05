@@ -20,4 +20,4 @@ console.log(threads);
             `
             container.insertAdjacentHTML('beforeend', html);
         }
-// This is all just a console.log
+// This is just a console.log
